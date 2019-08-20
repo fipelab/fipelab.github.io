@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:dev.fipe.tv
+      url: mailto:dev@fipe.tv
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://fipe.tv"
